@@ -8,3 +8,5 @@ A voice activated "personal assistant" I've been working on using pyttx, speech_
 4) Do whatever you want to it using your favorite editor (IDLE, PyCharm, Vim, whatever)
 
 I've been having fun making this so far, and I hope you guys like messing around with it too. If you have any suggestions or find any bugs, feel free to post them in the issues.
+
+Also, I don't remember where I got those sounds, or if they're copyrighted. If they belong to you and you don't want me to use them, please don't sue me. I'll happily remove them.
